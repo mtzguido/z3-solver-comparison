@@ -1,0 +1,35 @@
+version              0ec6370
+start                Tue Jun 20 17:30:57 2023
+nproc                24
+sys.mem              96574 MiB
+sys.freemem          35543 MiB
+sys.availablemem     94051 MiB
+sys.nprocs           783
+argv                 0 = z3-master
+argv                 1 = smt.arith.solver=6
+argv                 2 = ./ulib/queries-FStar.UInt128-161.smt2
+childpid             616245
+poll                 wall=1.000s usage=0.949s user=0.909s sys=0.040s mem=65241088 roottime=0.900s load=0.95 rootload=0.90
+poll                 wall=2.000s usage=1.947s user=1.859s sys=0.088s mem=116547584 roottime=1.850s load=1.00 rootload=0.95
+poll                 wall=3.000s usage=2.947s user=2.847s sys=0.100s mem=141451264 roottime=2.840s load=1.00 rootload=0.99
+poll                 wall=4.000s usage=3.947s user=3.843s sys=0.104s mem=143286272 roottime=3.840s load=1.00 rootload=1.00
+poll                 wall=5.000s usage=4.947s user=4.843s sys=0.104s mem=143286272 roottime=4.840s load=1.00 rootload=1.00
+poll                 wall=6.000s usage=5.946s user=5.842s sys=0.104s mem=143810560 roottime=5.840s load=1.00 rootload=1.00
+poll                 wall=7.000s usage=6.946s user=6.842s sys=0.104s mem=144596992 roottime=6.840s load=1.00 rootload=1.00
+poll                 wall=8.000s usage=7.946s user=7.842s sys=0.104s mem=145121280 roottime=7.840s load=1.00 rootload=1.00
+poll                 wall=9.000s usage=8.946s user=8.842s sys=0.104s mem=145907712 roottime=8.840s load=1.00 rootload=1.00
+poll                 wall=10.000s usage=9.946s user=9.842s sys=0.104s mem=145907712 roottime=9.840s load=1.00 rootload=1.00
+poll                 wall=11.000s usage=10.946s user=10.842s sys=0.104s mem=145907712 roottime=10.840s load=1.00 rootload=1.00
+end                  Tue Jun 20 17:31:09 2023
+root.execname        z3-master
+root.utime           10.990s
+root.stime           0.110s
+group.total          11.114s
+group.utime          10.998s
+group.stime          0.116s
+group.mempeak        140MB
+group.pidpeak        1
+status               exited
+exitcode             0
+walltime             11.166s
+loadavg              1.00

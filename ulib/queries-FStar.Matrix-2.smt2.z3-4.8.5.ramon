@@ -1,0 +1,23 @@
+version              0ec6370
+start                Tue Jun 20 17:30:54 2023
+nproc                24
+sys.mem              96574 MiB
+sys.freemem          36628 MiB
+sys.availablemem     94051 MiB
+sys.nprocs           729
+argv                 0 = z3
+argv                 1 = ./ulib/queries-FStar.Matrix-2.smt2
+childpid             616144
+end                  Tue Jun 20 17:30:54 2023
+root.execname        z3
+root.utime           0.040s
+root.stime           0.030s
+group.total          0.078s
+group.utime          0.047s
+group.stime          0.031s
+group.mempeak        5808KB
+group.pidpeak        1
+status               exited
+exitcode             1
+walltime             0.078s
+loadavg              0.99

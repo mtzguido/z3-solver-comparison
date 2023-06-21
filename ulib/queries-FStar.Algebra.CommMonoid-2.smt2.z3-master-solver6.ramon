@@ -1,0 +1,28 @@
+version              0ec6370
+start                Tue Jun 20 17:30:54 2023
+nproc                24
+sys.mem              96574 MiB
+sys.freemem          36519 MiB
+sys.availablemem     94051 MiB
+sys.nprocs           780
+argv                 0 = z3-master
+argv                 1 = smt.arith.solver=6
+argv                 2 = ./ulib/queries-FStar.Algebra.CommMonoid-2.smt2
+childpid             616200
+poll                 wall=1.000s usage=0.997s user=0.977s sys=0.020s mem=27103232 roottime=0.970s load=1.00 rootload=0.97
+poll                 wall=2.000s usage=1.995s user=1.976s sys=0.020s mem=28196864 roottime=1.970s load=1.00 rootload=1.00
+poll                 wall=3.000s usage=2.994s user=2.974s sys=0.020s mem=28835840 roottime=2.970s load=1.00 rootload=1.00
+poll                 wall=4.000s usage=3.994s user=3.974s sys=0.020s mem=28991488 roottime=3.970s load=1.00 rootload=1.00
+end                  Tue Jun 20 17:30:59 2023
+root.execname        z3-master
+root.utime           4.270s
+root.stime           0.020s
+group.total          4.299s
+group.utime          4.275s
+group.stime          0.024s
+group.mempeak        28568KB
+group.pidpeak        1
+status               exited
+exitcode             0
+walltime             4.306s
+loadavg              1.00

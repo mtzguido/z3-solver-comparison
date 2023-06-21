@@ -1,0 +1,23 @@
+version              0ec6370
+start                Tue Jun 20 17:30:59 2023
+nproc                24
+sys.mem              96574 MiB
+sys.freemem          35322 MiB
+sys.availablemem     94051 MiB
+sys.nprocs           786
+argv                 0 = z3
+argv                 1 = ./ulib/queries-FStar.UInt128-261.smt2
+childpid             616271
+end                  Tue Jun 20 17:30:59 2023
+root.execname        z3
+root.utime           0.090s
+root.stime           0.020s
+group.total          0.121s
+group.utime          0.097s
+group.stime          0.024s
+group.mempeak        8092KB
+group.pidpeak        1
+status               exited
+exitcode             1
+walltime             0.122s
+loadavg              0.99

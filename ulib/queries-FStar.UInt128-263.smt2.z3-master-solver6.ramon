@@ -1,0 +1,110 @@
+version              0ec6370
+start                Tue Jun 20 17:30:54 2023
+nproc                24
+sys.mem              96574 MiB
+sys.freemem          36305 MiB
+sys.availablemem     94051 MiB
+sys.nprocs           782
+argv                 0 = z3-master
+argv                 1 = smt.arith.solver=6
+argv                 2 = ./ulib/queries-FStar.UInt128-263.smt2
+childpid             616221
+poll                 wall=1.000s usage=0.999s user=0.963s sys=0.036s mem=33705984 roottime=0.960s load=1.00 rootload=0.96
+poll                 wall=2.000s usage=1.997s user=1.961s sys=0.036s mem=33062912 roottime=1.960s load=1.00 rootload=1.00
+poll                 wall=3.000s usage=2.997s user=2.957s sys=0.040s mem=34938880 roottime=2.950s load=1.00 rootload=0.99
+poll                 wall=4.000s usage=3.997s user=3.953s sys=0.044s mem=35397632 roottime=3.950s load=1.00 rootload=1.00
+poll                 wall=5.000s usage=4.996s user=4.952s sys=0.044s mem=36589568 roottime=4.950s load=1.00 rootload=1.00
+poll                 wall=6.000s usage=5.996s user=5.948s sys=0.048s mem=38367232 roottime=5.940s load=1.00 rootload=0.99
+poll                 wall=7.000s usage=6.994s user=6.942s sys=0.052s mem=39677952 roottime=6.940s load=1.00 rootload=1.00
+poll                 wall=8.000s usage=7.994s user=7.942s sys=0.052s mem=40607744 roottime=7.940s load=1.00 rootload=1.00
+poll                 wall=9.000s usage=8.994s user=8.942s sys=0.052s mem=40869888 roottime=8.940s load=1.00 rootload=1.00
+poll                 wall=10.000s usage=9.994s user=9.942s sys=0.052s mem=41394176 roottime=9.940s load=1.00 rootload=1.00
+poll                 wall=11.000s usage=10.994s user=10.942s sys=0.052s mem=41869312 roottime=10.940s load=1.00 rootload=1.00
+poll                 wall=12.000s usage=11.994s user=11.942s sys=0.052s mem=43220992 roottime=11.940s load=1.00 rootload=1.00
+poll                 wall=13.000s usage=12.994s user=12.942s sys=0.052s mem=44793856 roottime=12.940s load=1.00 rootload=1.00
+poll                 wall=14.000s usage=13.994s user=13.942s sys=0.052s mem=44793856 roottime=13.940s load=1.00 rootload=1.00
+poll                 wall=15.000s usage=14.993s user=14.942s sys=0.052s mem=44793856 roottime=14.940s load=1.00 rootload=1.00
+poll                 wall=16.000s usage=15.993s user=15.941s sys=0.052s mem=44793856 roottime=15.940s load=1.00 rootload=1.00
+poll                 wall=17.000s usage=16.993s user=16.937s sys=0.056s mem=45318144 roottime=16.930s load=1.00 rootload=0.99
+poll                 wall=18.000s usage=17.993s user=17.937s sys=0.056s mem=45318144 roottime=17.930s load=1.00 rootload=1.00
+poll                 wall=19.000s usage=18.992s user=18.936s sys=0.056s mem=45318144 roottime=18.930s load=1.00 rootload=1.00
+poll                 wall=20.000s usage=19.992s user=19.936s sys=0.056s mem=45318144 roottime=19.930s load=1.00 rootload=1.00
+poll                 wall=21.000s usage=20.992s user=20.936s sys=0.056s mem=45318144 roottime=20.930s load=1.00 rootload=1.00
+poll                 wall=22.000s usage=21.992s user=21.936s sys=0.056s mem=45318144 roottime=21.930s load=1.00 rootload=1.00
+poll                 wall=23.000s usage=22.991s user=22.935s sys=0.056s mem=45318144 roottime=22.930s load=1.00 rootload=1.00
+poll                 wall=24.000s usage=23.991s user=23.935s sys=0.056s mem=45318144 roottime=23.930s load=1.00 rootload=1.00
+poll                 wall=25.000s usage=24.991s user=24.935s sys=0.056s mem=45318144 roottime=24.930s load=1.00 rootload=1.00
+poll                 wall=26.000s usage=25.991s user=25.935s sys=0.056s mem=45318144 roottime=25.930s load=1.00 rootload=1.00
+poll                 wall=27.000s usage=26.990s user=26.934s sys=0.056s mem=45318144 roottime=26.930s load=1.00 rootload=1.00
+poll                 wall=28.000s usage=27.990s user=27.934s sys=0.056s mem=45318144 roottime=27.930s load=1.00 rootload=1.00
+poll                 wall=29.000s usage=28.990s user=28.934s sys=0.056s mem=45318144 roottime=28.930s load=1.00 rootload=1.00
+poll                 wall=29.999s usage=29.990s user=29.934s sys=0.056s mem=45318144 roottime=29.930s load=1.00 rootload=1.00
+poll                 wall=30.999s usage=30.989s user=30.933s sys=0.056s mem=45318144 roottime=30.930s load=1.00 rootload=1.00
+poll                 wall=31.999s usage=31.989s user=31.933s sys=0.056s mem=45318144 roottime=31.930s load=1.00 rootload=1.00
+poll                 wall=32.999s usage=32.989s user=32.933s sys=0.056s mem=45318144 roottime=32.930s load=1.00 rootload=1.00
+poll                 wall=33.999s usage=33.989s user=33.933s sys=0.056s mem=45318144 roottime=33.930s load=1.00 rootload=1.00
+poll                 wall=34.999s usage=34.988s user=34.932s sys=0.056s mem=45318144 roottime=34.930s load=1.00 rootload=1.00
+poll                 wall=35.999s usage=35.988s user=35.932s sys=0.056s mem=45318144 roottime=35.930s load=1.00 rootload=1.00
+poll                 wall=36.999s usage=36.988s user=36.932s sys=0.056s mem=45318144 roottime=36.930s load=1.00 rootload=1.00
+poll                 wall=37.999s usage=37.987s user=37.931s sys=0.056s mem=45318144 roottime=37.930s load=1.00 rootload=1.00
+poll                 wall=38.999s usage=38.987s user=38.931s sys=0.056s mem=45318144 roottime=38.930s load=1.00 rootload=1.00
+poll                 wall=39.999s usage=39.987s user=39.931s sys=0.056s mem=45318144 roottime=39.930s load=1.00 rootload=1.00
+poll                 wall=40.999s usage=40.986s user=40.930s sys=0.056s mem=45318144 roottime=40.930s load=1.00 rootload=1.00
+poll                 wall=41.999s usage=41.986s user=41.930s sys=0.056s mem=45318144 roottime=41.930s load=1.00 rootload=1.00
+poll                 wall=42.999s usage=42.986s user=42.930s sys=0.056s mem=45318144 roottime=42.930s load=1.00 rootload=1.00
+poll                 wall=43.999s usage=43.986s user=43.930s sys=0.056s mem=45318144 roottime=43.930s load=1.00 rootload=1.00
+poll                 wall=44.999s usage=44.986s user=44.930s sys=0.056s mem=45318144 roottime=44.930s load=1.00 rootload=1.00
+poll                 wall=45.999s usage=45.986s user=45.930s sys=0.056s mem=45318144 roottime=45.930s load=1.00 rootload=1.00
+poll                 wall=46.999s usage=46.986s user=46.930s sys=0.056s mem=45318144 roottime=46.930s load=1.00 rootload=1.00
+poll                 wall=47.999s usage=47.986s user=47.930s sys=0.056s mem=45318144 roottime=47.930s load=1.00 rootload=1.00
+poll                 wall=48.999s usage=48.986s user=48.930s sys=0.056s mem=45318144 roottime=48.930s load=1.00 rootload=1.00
+poll                 wall=49.999s usage=49.986s user=49.930s sys=0.056s mem=45064192 roottime=49.930s load=1.00 rootload=1.00
+poll                 wall=50.999s usage=50.986s user=50.930s sys=0.056s mem=45064192 roottime=50.930s load=1.00 rootload=1.00
+poll                 wall=51.999s usage=51.978s user=51.922s sys=0.056s mem=45752320 roottime=51.920s load=0.99 rootload=0.99
+poll                 wall=52.999s usage=52.978s user=52.922s sys=0.056s mem=45752320 roottime=52.920s load=1.00 rootload=1.00
+poll                 wall=53.999s usage=53.978s user=53.922s sys=0.056s mem=45752320 roottime=53.920s load=1.00 rootload=1.00
+poll                 wall=54.999s usage=54.978s user=54.922s sys=0.056s mem=45752320 roottime=54.920s load=1.00 rootload=1.00
+poll                 wall=55.999s usage=55.978s user=55.922s sys=0.056s mem=45752320 roottime=55.920s load=1.00 rootload=1.00
+poll                 wall=56.999s usage=56.977s user=56.921s sys=0.056s mem=45752320 roottime=56.920s load=1.00 rootload=1.00
+poll                 wall=57.999s usage=57.977s user=57.921s sys=0.056s mem=45752320 roottime=57.920s load=1.00 rootload=1.00
+poll                 wall=58.999s usage=58.977s user=58.921s sys=0.056s mem=45752320 roottime=58.920s load=1.00 rootload=1.00
+poll                 wall=59.999s usage=59.977s user=59.921s sys=0.056s mem=45752320 roottime=59.920s load=1.00 rootload=1.00
+poll                 wall=60.999s usage=60.976s user=60.920s sys=0.056s mem=45752320 roottime=60.920s load=1.00 rootload=1.00
+poll                 wall=61.999s usage=61.971s user=61.915s sys=0.056s mem=45846528 roottime=61.910s load=0.99 rootload=0.99
+poll                 wall=62.999s usage=62.971s user=62.915s sys=0.056s mem=45600768 roottime=62.910s load=1.00 rootload=1.00
+poll                 wall=63.999s usage=63.971s user=63.915s sys=0.056s mem=45600768 roottime=63.910s load=1.00 rootload=1.00
+poll                 wall=64.999s usage=64.970s user=64.914s sys=0.056s mem=45600768 roottime=64.910s load=1.00 rootload=1.00
+poll                 wall=65.999s usage=65.970s user=65.914s sys=0.056s mem=45600768 roottime=65.910s load=1.00 rootload=1.00
+poll                 wall=66.999s usage=66.969s user=66.913s sys=0.056s mem=45600768 roottime=66.910s load=1.00 rootload=1.00
+poll                 wall=67.999s usage=67.969s user=67.913s sys=0.056s mem=45600768 roottime=67.910s load=1.00 rootload=1.00
+poll                 wall=68.999s usage=68.969s user=68.913s sys=0.056s mem=45600768 roottime=68.910s load=1.00 rootload=1.00
+poll                 wall=69.999s usage=69.969s user=69.913s sys=0.056s mem=45600768 roottime=69.910s load=1.00 rootload=1.00
+poll                 wall=70.999s usage=70.968s user=70.912s sys=0.056s mem=45600768 roottime=70.910s load=1.00 rootload=1.00
+poll                 wall=71.999s usage=71.968s user=71.912s sys=0.056s mem=45600768 roottime=71.910s load=1.00 rootload=1.00
+poll                 wall=72.999s usage=72.968s user=72.912s sys=0.056s mem=45600768 roottime=72.910s load=1.00 rootload=1.00
+poll                 wall=73.999s usage=73.968s user=73.912s sys=0.056s mem=45600768 roottime=73.910s load=1.00 rootload=1.00
+poll                 wall=74.999s usage=74.967s user=74.911s sys=0.056s mem=45600768 roottime=74.910s load=1.00 rootload=1.00
+poll                 wall=75.999s usage=75.967s user=75.911s sys=0.056s mem=45600768 roottime=75.910s load=1.00 rootload=1.00
+poll                 wall=76.999s usage=76.967s user=76.911s sys=0.056s mem=45600768 roottime=76.910s load=1.00 rootload=1.00
+poll                 wall=77.999s usage=77.967s user=77.911s sys=0.056s mem=45600768 roottime=77.910s load=1.00 rootload=1.00
+poll                 wall=78.999s usage=78.967s user=78.911s sys=0.056s mem=45600768 roottime=78.910s load=1.00 rootload=1.00
+poll                 wall=79.999s usage=79.967s user=79.911s sys=0.056s mem=45600768 roottime=79.910s load=1.00 rootload=1.00
+poll                 wall=80.999s usage=80.967s user=80.911s sys=0.056s mem=45600768 roottime=80.910s load=1.00 rootload=1.00
+poll                 wall=81.999s usage=81.967s user=81.911s sys=0.056s mem=45600768 roottime=81.910s load=1.00 rootload=1.00
+poll                 wall=82.999s usage=82.967s user=82.911s sys=0.056s mem=45600768 roottime=82.910s load=1.00 rootload=1.00
+poll                 wall=83.998s usage=83.967s user=83.911s sys=0.056s mem=46125056 roottime=83.910s load=1.00 rootload=1.00
+poll                 wall=84.998s usage=84.967s user=84.911s sys=0.056s mem=46911488 roottime=84.910s load=1.00 rootload=1.00
+poll                 wall=85.998s usage=85.967s user=85.911s sys=0.056s mem=46911488 roottime=85.910s load=1.00 rootload=1.00
+end                  Tue Jun 20 17:32:21 2023
+root.execname        z3-master
+root.utime           86.410s
+root.stime           0.050s
+group.total          86.469s
+group.utime          86.413s
+group.stime          0.056s
+group.mempeak        46820KB
+group.pidpeak        1
+status               exited
+exitcode             0
+walltime             86.501s
+loadavg              1.00

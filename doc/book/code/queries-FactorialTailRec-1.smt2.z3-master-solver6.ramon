@@ -1,0 +1,28 @@
+version              0ec6370
+start                Tue Jun 20 17:30:59 2023
+nproc                24
+sys.mem              96574 MiB
+sys.freemem          35720 MiB
+sys.availablemem     94051 MiB
+sys.nprocs           786
+argv                 0 = z3-master
+argv                 1 = smt.arith.solver=6
+argv                 2 = ./doc/book/code/queries-FactorialTailRec-1.smt2
+childpid             616301
+poll                 wall=1.000s usage=0.998s user=0.966s sys=0.032s mem=28770304 roottime=0.960s load=1.00 rootload=0.96
+poll                 wall=2.000s usage=1.997s user=1.965s sys=0.032s mem=31571968 roottime=1.960s load=1.00 rootload=1.00
+poll                 wall=3.000s usage=2.996s user=2.952s sys=0.044s mem=33411072 roottime=2.950s load=1.00 rootload=0.99
+poll                 wall=4.000s usage=3.996s user=3.952s sys=0.044s mem=34721792 roottime=3.950s load=1.00 rootload=1.00
+end                  Tue Jun 20 17:31:04 2023
+root.execname        z3-master
+root.utime           4.300s
+root.stime           0.050s
+group.total          4.366s
+group.utime          4.310s
+group.stime          0.056s
+group.mempeak        34420KB
+group.pidpeak        1
+status               exited
+exitcode             0
+walltime             4.369s
+loadavg              1.00

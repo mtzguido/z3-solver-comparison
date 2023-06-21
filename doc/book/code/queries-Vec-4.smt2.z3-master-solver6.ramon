@@ -1,0 +1,26 @@
+version              0ec6370
+start                Tue Jun 20 17:30:59 2023
+nproc                24
+sys.mem              96574 MiB
+sys.freemem          35610 MiB
+sys.availablemem     94051 MiB
+sys.nprocs           786
+argv                 0 = z3-master
+argv                 1 = smt.arith.solver=6
+argv                 2 = ./doc/book/code/queries-Vec-4.smt2
+childpid             616294
+poll                 wall=1.000s usage=0.999s user=0.967s sys=0.032s mem=27803648 roottime=0.960s load=1.00 rootload=0.96
+poll                 wall=2.000s usage=1.999s user=1.967s sys=0.032s mem=27840512 roottime=1.960s load=1.00 rootload=1.00
+end                  Tue Jun 20 17:31:01 2023
+root.execname        z3-master
+root.utime           2.270s
+root.stime           0.030s
+group.total          2.311s
+group.utime          2.275s
+group.stime          0.036s
+group.mempeak        27444KB
+group.pidpeak        1
+status               exited
+exitcode             0
+walltime             2.313s
+loadavg              1.00

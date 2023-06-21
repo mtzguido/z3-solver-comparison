@@ -1,0 +1,30 @@
+version              0ec6370
+start                Tue Jun 20 17:30:59 2023
+nproc                24
+sys.mem              96574 MiB
+sys.freemem          35321 MiB
+sys.availablemem     94051 MiB
+sys.nprocs           786
+argv                 0 = z3-master
+argv                 1 = smt.arith.solver=6
+argv                 2 = ./ulib/queries-FStar.Math.Lemmas-46.smt2
+childpid             616278
+poll                 wall=1.000s usage=0.998s user=0.978s sys=0.020s mem=27705344 roottime=0.970s load=1.00 rootload=0.97
+poll                 wall=2.000s usage=1.993s user=1.969s sys=0.024s mem=28532736 roottime=1.970s load=1.00 rootload=1.00
+poll                 wall=3.000s usage=2.993s user=2.961s sys=0.032s mem=29319168 roottime=2.960s load=1.00 rootload=0.99
+poll                 wall=4.000s usage=3.993s user=3.957s sys=0.036s mem=30629888 roottime=3.960s load=1.00 rootload=1.00
+poll                 wall=5.000s usage=4.993s user=4.957s sys=0.036s mem=31940608 roottime=4.950s load=1.00 rootload=0.99
+poll                 wall=6.000s usage=5.993s user=5.957s sys=0.036s mem=33832960 roottime=5.950s load=1.00 rootload=1.00
+end                  Tue Jun 20 17:31:06 2023
+root.execname        z3-master
+root.utime           6.720s
+root.stime           0.040s
+group.total          6.770s
+group.utime          6.722s
+group.stime          0.048s
+group.mempeak        35944KB
+group.pidpeak        1
+status               exited
+exitcode             0
+walltime             6.774s
+loadavg              1.00

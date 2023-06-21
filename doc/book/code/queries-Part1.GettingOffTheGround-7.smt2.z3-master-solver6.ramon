@@ -1,0 +1,25 @@
+version              0ec6370
+start                Tue Jun 20 17:30:59 2023
+nproc                24
+sys.mem              96574 MiB
+sys.freemem          35309 MiB
+sys.availablemem     94051 MiB
+sys.nprocs           786
+argv                 0 = z3-master
+argv                 1 = smt.arith.solver=6
+argv                 2 = ./doc/book/code/queries-Part1.GettingOffTheGround-7.smt2
+childpid             616292
+poll                 wall=1.000s usage=0.999s user=0.983s sys=0.016s mem=25559040 roottime=0.980s load=1.00 rootload=0.98
+end                  Tue Jun 20 17:31:01 2023
+root.execname        z3-master
+root.utime           1.880s
+root.stime           0.010s
+group.total          1.907s
+group.utime          1.887s
+group.stime          0.020s
+group.mempeak        25220KB
+group.pidpeak        1
+status               exited
+exitcode             0
+walltime             1.909s
+loadavg              1.00

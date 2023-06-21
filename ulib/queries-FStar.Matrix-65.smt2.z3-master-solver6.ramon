@@ -1,0 +1,27 @@
+version              0ec6370
+start                Tue Jun 20 17:30:55 2023
+nproc                24
+sys.mem              96574 MiB
+sys.freemem          36049 MiB
+sys.availablemem     94051 MiB
+sys.nprocs           783
+argv                 0 = z3-master
+argv                 1 = smt.arith.solver=6
+argv                 2 = ./ulib/queries-FStar.Matrix-65.smt2
+childpid             616237
+poll                 wall=1.000s usage=0.951s user=0.923s sys=0.028s mem=31080448 roottime=0.920s load=0.95 rootload=0.92
+poll                 wall=2.000s usage=1.949s user=1.909s sys=0.040s mem=36507648 roottime=1.900s load=1.00 rootload=0.98
+poll                 wall=3.000s usage=2.947s user=2.896s sys=0.052s mem=37875712 roottime=2.890s load=1.00 rootload=0.99
+end                  Tue Jun 20 17:30:58 2023
+root.execname        z3-master
+root.utime           3.210s
+root.stime           0.070s
+group.total          3.289s
+group.utime          3.217s
+group.stime          0.072s
+group.mempeak        37500KB
+group.pidpeak        1
+status               exited
+exitcode             0
+walltime             3.344s
+loadavg              0.98

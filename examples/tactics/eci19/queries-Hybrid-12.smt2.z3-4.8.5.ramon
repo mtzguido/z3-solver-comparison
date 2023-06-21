@@ -1,0 +1,23 @@
+version              0ec6370
+start                Tue Jun 20 17:30:59 2023
+nproc                24
+sys.mem              96574 MiB
+sys.freemem          35327 MiB
+sys.availablemem     94051 MiB
+sys.nprocs           786
+argv                 0 = z3
+argv                 1 = ./examples/tactics/eci19/queries-Hybrid-12.smt2
+childpid             616276
+end                  Tue Jun 20 17:30:59 2023
+root.execname        z3
+root.utime           0.300s
+root.stime           0.020s
+group.total          0.329s
+group.utime          0.309s
+group.stime          0.020s
+group.mempeak        11896KB
+group.pidpeak        1
+status               exited
+exitcode             1
+walltime             0.330s
+loadavg              1.00

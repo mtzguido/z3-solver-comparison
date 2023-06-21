@@ -1,0 +1,24 @@
+version              0ec6370
+start                Tue Jun 20 17:30:54 2023
+nproc                24
+sys.mem              96574 MiB
+sys.freemem          36621 MiB
+sys.availablemem     94051 MiB
+sys.nprocs           756
+argv                 0 = z3
+argv                 1 = ./ulib/queries-FStar.Math.Lemmas-13.smt2
+childpid             616170
+poll                 wall=1.000s usage=0.998s user=0.962s sys=0.036s mem=15581184 roottime=0.960s load=1.00 rootload=0.96
+end                  Tue Jun 20 17:30:55 2023
+root.execname        z3
+root.utime           1.220s
+root.stime           0.040s
+group.total          1.270s
+group.utime          1.222s
+group.stime          0.048s
+group.mempeak        22128KB
+group.pidpeak        1
+status               exited
+exitcode             1
+walltime             1.271s
+loadavg              1.00

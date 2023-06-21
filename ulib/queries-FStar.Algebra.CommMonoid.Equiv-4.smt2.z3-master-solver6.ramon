@@ -1,0 +1,34 @@
+version              0ec6370
+start                Tue Jun 20 17:30:54 2023
+nproc                24
+sys.mem              96574 MiB
+sys.freemem          36517 MiB
+sys.availablemem     94051 MiB
+sys.nprocs           782
+argv                 0 = z3-master
+argv                 1 = smt.arith.solver=6
+argv                 2 = ./ulib/queries-FStar.Algebra.CommMonoid.Equiv-4.smt2
+childpid             616201
+poll                 wall=1.000s usage=0.999s user=0.975s sys=0.024s mem=27586560 roottime=0.970s load=1.00 rootload=0.97
+poll                 wall=2.000s usage=1.998s user=1.970s sys=0.028s mem=30023680 roottime=1.970s load=1.00 rootload=1.00
+poll                 wall=3.000s usage=2.998s user=2.970s sys=0.028s mem=30621696 roottime=2.960s load=1.00 rootload=0.99
+poll                 wall=4.000s usage=3.997s user=3.969s sys=0.028s mem=31031296 roottime=3.960s load=1.00 rootload=1.00
+poll                 wall=5.000s usage=4.997s user=4.969s sys=0.028s mem=32030720 roottime=4.960s load=1.00 rootload=1.00
+poll                 wall=6.000s usage=5.997s user=5.969s sys=0.028s mem=32550912 roottime=5.960s load=1.00 rootload=1.00
+poll                 wall=7.000s usage=6.993s user=6.961s sys=0.032s mem=32813056 roottime=6.960s load=1.00 rootload=1.00
+poll                 wall=8.000s usage=7.993s user=7.961s sys=0.032s mem=33075200 roottime=7.960s load=1.00 rootload=1.00
+poll                 wall=9.000s usage=8.993s user=8.961s sys=0.032s mem=33075200 roottime=8.960s load=1.00 rootload=1.00
+poll                 wall=10.000s usage=9.993s user=9.961s sys=0.032s mem=33075200 roottime=9.960s load=1.00 rootload=1.00
+end                  Tue Jun 20 17:31:05 2023
+root.execname        z3-master
+root.utime           10.640s
+root.stime           0.030s
+group.total          10.686s
+group.utime          10.650s
+group.stime          0.036s
+group.mempeak        32460KB
+group.pidpeak        1
+status               exited
+exitcode             0
+walltime             10.690s
+loadavg              1.00

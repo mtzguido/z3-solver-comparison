@@ -1,0 +1,26 @@
+version              0ec6370
+start                Tue Jun 20 17:31:05 2023
+nproc                24
+sys.mem              96574 MiB
+sys.freemem          36026 MiB
+sys.availablemem     94051 MiB
+sys.nprocs           756
+argv                 0 = z3-master
+argv                 1 = smt.arith.solver=2
+argv                 2 = ./ulib/queries-FStar.UInt128-164.smt2
+childpid             616339
+poll                 wall=1.000s usage=0.997s user=0.957s sys=0.040s mem=77795328 roottime=0.950s load=1.00 rootload=0.95
+poll                 wall=2.000s usage=1.997s user=1.897s sys=0.100s mem=142012416 roottime=1.890s load=1.00 rootload=0.94
+end                  Tue Jun 20 17:31:07 2023
+root.execname        z3-master
+root.utime           1.960s
+root.stime           0.100s
+group.total          2.069s
+group.utime          1.961s
+group.stime          0.108s
+group.mempeak        139MB
+group.pidpeak        1
+status               exited
+exitcode             0
+walltime             2.070s
+loadavg              1.00

@@ -1,0 +1,23 @@
+version              0ec6370
+start                Tue Jun 20 17:30:54 2023
+nproc                24
+sys.mem              96574 MiB
+sys.freemem          36608 MiB
+sys.availablemem     94051 MiB
+sys.nprocs           781
+argv                 0 = z3
+argv                 1 = ./ulib/queries-FStar.Algebra.CommMonoid-2.smt2
+childpid             616194
+end                  Tue Jun 20 17:30:54 2023
+root.execname        z3
+root.utime           0.030s
+root.stime           0.020s
+group.total          0.054s
+group.utime          0.031s
+group.stime          0.023s
+group.mempeak        4692KB
+group.pidpeak        1
+status               exited
+exitcode             1
+walltime             0.055s
+loadavg              0.98
